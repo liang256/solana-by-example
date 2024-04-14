@@ -2,7 +2,7 @@
 Learn Solana with examples
 
 ## Using
-Visit [HERE](https://n795113.github.io/solana-by-example/) to read it online.
+Visit [HERE](https://liang256.github.io/solana-by-example/) to read it online.
 
 If you'd like to read it locally, install Rust, and then:
 
